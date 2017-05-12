@@ -169,13 +169,13 @@ p img {
 
 @font-face {
 	font-family: "Florante";
-	src: url("../--FONTS/FLORLRG.woff") format("woff");
+	src: url("../fonts/FLORLRG.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: "Lobster";
-	src: url("../--FONTS/lobster.woff2") format("woff2");
+	src: url("../fonts/lobster.woff2") format("woff2");
 }
 body {
 	font-family: "Lobster";
